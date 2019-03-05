@@ -1,7 +1,2 @@
 
-this is my first project
-this is some kind of modification to the existing file
-this is a kind of adjustment
-some changes to jenkins
-please accept some more changes
-well some more changes
+some more changes to this file should trigger the job in Jenkins automatically
