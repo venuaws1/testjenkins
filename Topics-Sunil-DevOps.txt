@@ -9,6 +9,7 @@ JIRA
 Jenkins
 
 Hadoop
+unneccesary events followed
 
 HDFS (Hadoop Distribution File System)
 Hbase
