@@ -35,7 +35,7 @@ If required, modules should be setup in the nodes
 
 Control Node
 ansible-config-file
-/etc/ansible/ansible.cfg
+/etc/ansible/ansible.cf
 /etc/hosts
 /init
 
