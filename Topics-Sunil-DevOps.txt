@@ -1,0 +1,77 @@
+DEVOPS
+
+Ansible
+docker
+kubernetes
+git
+linux admin
+JIRA
+Jenkins
+
+Hadoop
+
+HDFS (Hadoop Distribution File System)
+Hbase
+Distribution
+cloud era
+MAPR
+
+
+ANSIBLE
+
+Its an IP Automation tool and orchestration tool
+Application software, configuration
+
+YAML
+
+SSH
+ssh-keygen
+cd .ssh
+
+communication will be established with SSH
+Ansible modules will take care of the requirement
+If required, modules should be setup in the nodes
+
+
+Control Node
+ansible-config-file
+/etc/ansible/ansible.cfg
+/etc/hosts
+/init
+
+configuration file - Inventory details+roles/tasks
+
+hosts - node details
+corelib - built in core lib - Infrastructure provisioning/soft deployment
+modules - ansible modules
+playbook
+define tasks
+
+
+35.200.173.251
+
+Management & Security
+Switch 
+
+ansible --version
+
+cd ..ssh
+ssh-keygen
+ls -ltr
+cat id-rsa.pub
+
+/home/ansible
+$pwd
+
+host = /home/ansible/ansible.cfg
+remote_user = ansible
+
+/etc/ansible
+
+ansible ansible-lab --list-hosts = display the hosts
+
+ansible all -m shell -a date =  display the date in the hosts
+
+sudo yum install -y ansible =  Install and Configure Ansible
+
+
